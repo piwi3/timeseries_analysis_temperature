@@ -1,6 +1,6 @@
 ## Time series analysis of temperature data
 
-- Developed a __short-term temperatur forecast__ utilizing the temperature data provided [here](www.ecad.eu)
+- Developed a __short-term temperature forecast__ utilizing the temperature data provided [here](www.ecad.eu)
 - __Cleaned the data__ and performed a step-by-step time series analysis of the data, starting with a __base model__ using __linear regression to model trend and seasonality__
 - Tested the __remainder for stationarity__, then built and evaluated __3 different AR models__, i.e. i) self-built __linear regression__ model, ii) __AR model__ iii) __ARIMA__ model
 
